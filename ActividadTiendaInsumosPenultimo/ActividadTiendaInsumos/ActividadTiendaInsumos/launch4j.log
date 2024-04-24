@@ -1,0 +1,37 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\GAMER\Documents\ActividadTiendaInsumos\ActividadTiendaInsumos\Tienda.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\GAMER\Documents\ActividadTiendaInsumos\ActividadTiendaInsumos\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.000.004
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\xampp\mysql\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Users\GAMER\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\GAMER\AppData\Local\Programs\Python\Python311\;C:\Users\GAMER\AppData\Local\Microsoft\WindowsApps;;C:\Users\GAMER\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\GAMER\.dotnet\tools;C:\Program Files\Java\jdk-20\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\xampp\mysql\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Users\GAMER\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\GAMER\AppData\Local\Programs\Python\Python311\;C:\Users\GAMER\AppData\Local\Microsoft\WindowsApps;;C:\Users\GAMER\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\GAMER\.dotnet\tools;C:\Program Files\Java\jdk-20\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\xampp\mysql\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Users\GAMER\AppData\Local\Programs\Python\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\GAMER\AppData\Local\Programs\Python\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Users\GAMER\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\GAMER\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\GAMER\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-20\bin\javac.exe (OK)
+Version string: 1.020.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe
+Launcher args:	-jar "C:\Users\GAMER\Documents\ActividadTiendaInsumos\ActividadTiendaInsumos\Tienda.exe"
+Args length:	88/32768 chars
+Exit code:	0
